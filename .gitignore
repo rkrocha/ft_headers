@@ -1,5 +1,6 @@
 ref.c
 ref.h
+.tests/
 
 # Prerequisites
 *.d
