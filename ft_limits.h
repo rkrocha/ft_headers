@@ -6,7 +6,7 @@
 /*   By: rkochhan <rkochhan@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/14 11:14:17 by rkochhan          #+#    #+#             */
-/*   Updated: 2021/11/15 16:22:09 by rkochhan         ###   ########.fr       */
+/*   Updated: 2021/11/16 07:44:56 by rkochhan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@
 */
 # define INT_MIN	-2147483648
 # define INT_MAX	2147483647
-# define UINT_MAX	4294967295
+# define UINT_MAX	4294967295U
 
 /*
 ** Definition of long constants
